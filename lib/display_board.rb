@@ -1,6 +1,6 @@
-display_board
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   "
-puts "-----------"
-puts "   |   |   ""
+"Welcome to A Tic Tac Toe Board"
+   |   |
+------------
+   |   |
+-----------
+   |   |
