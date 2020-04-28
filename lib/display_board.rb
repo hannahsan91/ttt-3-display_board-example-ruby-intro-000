@@ -1,6 +1,5 @@
 "Welcome to A Tic Tac Toe Board"
-   |   |
-------------
-   |   |
------------
-   |   |
+puts "   |   |   "
+puts "-----------"
+puts "   |   |   "
+puts "-----------"
